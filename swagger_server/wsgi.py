@@ -1,2 +1,2 @@
 from swagger_server import app
-application = app
+application = app.app
