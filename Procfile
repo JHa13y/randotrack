@@ -1,1 +1,1 @@
-web: gunicorn swagger_server.__main__
+web: gunicorn swagger_server.__main__:main
