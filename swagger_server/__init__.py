@@ -12,4 +12,4 @@ def serve_homepage():
     return send_from_directory('../static', 'index.html')
 
 
-app.run(port=80)
+#app.run(port=80)
