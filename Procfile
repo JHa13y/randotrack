@@ -1,1 +1,1 @@
-web: gunicorn swagger_server:app
+web: gunicorn swagger_server.wsgi
