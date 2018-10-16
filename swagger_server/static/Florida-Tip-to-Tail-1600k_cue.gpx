@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://ridewithgps.com/">
+  <metadata>
+    <name>Florida-Tip-to-Tail-1600k-v11-storm-Take-US-90-FL20</name>
+    <link href="https://ridewithgps.com/routes/28758610">
+      <text>Florida-Tip-to-Tail-1600k-v11-storm-Take-US-90-FL20</text>
+    </link>
+    <time>2018-10-10T10:46:25Z</time>
+  </metadata>
+  <rte>
+    <name>Florida-Tip-to-Tail-1600k-v11-storm-Take-US-90-FL20</name>
+    <rtept lat="30.36976" lon="-87.17569">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="30.369960000000003" lon="-87.17545000000001">
+      <name>Right</name>
+      <cmt>Turn right onto US-98 E/Gulf Breeze Pkwy</cmt>
+    </rtept>
+    <rtept lat="30.409640000000003" lon="-86.66480000000001">
+      <name>Left</name>
+      <cmt>Turn left onto Doolittle Blvd</cmt>
+    </rtept>
+    <rtept lat="30.41354" lon="-86.66467">
+      <name>Straight</name>
+      <cmt>At the traffic circle, take the 2nd exit onto Hollywood Blvd</cmt>
+    </rtept>
+    <rtept lat="30.413930000000004" lon="-86.66794">
+      <name>Straight</name>
+      <cmt>At the traffic circle, take the 1st exit onto Hill Ave NW</cmt>
+    </rtept>
+    <rtept lat="30.428700000000003" lon="-86.66727">
+      <name>Straight</name>
+      <cmt>Continue onto Martin Luther King Jr Blvd</cmt>
+    </rtept>
+    <rtept lat="30.455720000000003" lon="-86.65141000000001">
+      <name>Straight</name>
+      <cmt>Continue onto Green Acres Rd</cmt>
+    </rtept>
+    <rtept lat="30.455900000000003" lon="-86.63836">
+      <name>Left</name>
+      <cmt>Turn left onto Beal Pkwy NW</cmt>
+    </rtept>
+    <rtept lat="30.457060000000002" lon="-86.63739000000001">
+      <name>Straight</name>
+      <cmt>Continue onto FL-189 N/Lewis Turner Blvd</cmt>
+    </rtept>
+    <rtept lat="30.46975" lon="-86.56266000000001">
+      <name>Left</name>
+      <cmt>Turn left onto FL-85 N/Eglin Pkwy</cmt>
+    </rtept>
+    <rtept lat="30.51028" lon="-86.51736000000001">
+      <name>Left</name>
+      <cmt>Turn left onto W College Blvd</cmt>
+    </rtept>
+    <rtept lat="30.534887135574547" lon="-86.49303977077852">
+      <name>Left</name>
+      <cmt>CONTROL TOM THUMB 24 hours</cmt>
+    </rtept>
+    <rtept lat="30.53441" lon="-86.45828">
+      <name>Left</name>
+      <cmt>Turn left onto FL-285 N</cmt>
+    </rtept>
+    <rtept lat="30.662910000000004" lon="-86.38839">
+      <name>Right</name>
+      <cmt>Turn right onto Bob Sikes Rd/County Rd 280 W</cmt>
+    </rtept>
+    <rtept lat="30.70586" lon="-86.12270000000001">
+      <name>Left</name>
+      <cmt>Turn left onto US-331 N</cmt>
+    </rtept>
+    <rtept lat="30.721850000000003" lon="-86.12036">
+      <name>Right</name>
+      <cmt>Turn right onto US-90 E/E Nelson Ave</cmt>
+    </rtept>
+    <rtept lat="30.727078063673172" lon="-85.93792314372604">
+      <name>Left</name>
+      <cmt>CONTROL TOM THUMB</cmt>
+    </rtept>
+    <rtept lat="30.77821" lon="-85.23697000000001">
+      <name>Left</name>
+      <cmt>Turn left onto Daniels St</cmt>
+    </rtept>
+    <rtept lat="30.78074" lon="-85.23641">
+      <name>Right</name>
+      <cmt>Turn right onto Wilton St</cmt>
+    </rtept>
+    <rtept lat="30.780630000000002" lon="-85.23497">
+      <name>Right</name>
+      <cmt>Turn right onto Russ St</cmt>
+    </rtept>
+    <rtept lat="30.77662" lon="-85.23567000000001">
+      <name>Left</name>
+      <cmt>Turn left onto US-90 E/Lafayette St</cmt>
+    </rtept>
+    <rtept lat="30.7496" lon="-85.18854">
+      <name>Right</name>
+      <cmt>Turn right onto FL-71 S</cmt>
+    </rtept>
+    <rtept lat="30.728080737227934" lon="-85.18579182687239">
+      <name>Left</name>
+      <cmt>CONTROL -- Any store at I-10 Exit 71</cmt>
+    </rtept>
+    <rtept lat="30.443220000000004" lon="-85.04583000000001">
+      <name>Left</name>
+      <cmt>Turn left onto FL-20 E/Central Ave E</cmt>
+    </rtept>
+    <rtept lat="30.389270000000003" lon="-84.62869">
+      <name>Right</name>
+      <cmt>Slight right toward FL-267 S</cmt>
+    </rtept>
+    <rtept lat="30.389310000000002" lon="-84.62769">
+      <name>Straight</name>
+      <cmt>Continue onto FL-267 S</cmt>
+    </rtept>
+    <rtept lat="30.263530000000003" lon="-84.36245000000001">
+      <name>Right</name>
+      <cmt>Turn right onto US-319 S</cmt>
+    </rtept>
+    <rtept lat="30.217160460568458" lon="-84.36111217449508">
+      <name>Left</name>
+      <cmt>CONTROL WALMART </cmt>
+    </rtept>
+    <rtept lat="30.2173" lon="-84.36243">
+      <name>Right</name>
+      <cmt>Turn right onto US-319 N</cmt>
+    </rtept>
+    <rtept lat="30.2631" lon="-84.36213000000001">
+      <name>Right</name>
+      <cmt>Turn right onto FL-267 S</cmt>
+    </rtept>
+    <rtept lat="30.199730000000002" lon="-84.18351000000001">
+      <name>Left</name>
+      <cmt>Turn left onto US-98 E</cmt>
+    </rtept>
+    <rtept lat="30.111590000000003" lon="-83.58927000000001">
+      <name>Right</name>
+      <cmt>Turn right onto S Byron Butler Pkwy</cmt>
+    </rtept>
+    <rtept lat="30.094326354632116" lon="-83.57877595421462">
+      <name>Left</name>
+      <cmt>OVERNIGHT -- ROADWAY INN, PERRY FL</cmt>
+    </rtept>
+    <rtept lat="29.60994" lon="-83.08418">
+      <name>Right</name>
+      <cmt>Turn right onto SE 55A Hwy</cmt>
+    </rtept>
+    <rtept lat="29.59044" lon="-82.98174">
+      <name>Left</name>
+      <cmt>Turn left onto SE Co Rd 349</cmt>
+    </rtept>
+    <rtept lat="29.590790000000002" lon="-82.98174">
+      <name>Right</name>
+      <cmt>Turn right onto SE 136th Ave/St Co Rd 55A</cmt>
+    </rtept>
+    <rtept lat="29.590640000000004" lon="-82.96262000000002">
+      <name>Right</name>
+      <cmt>Turn right onto US-19 S/US-27 ALT S/US-98 S</cmt>
+    </rtept>
+    <rtept lat="29.58240141375245" lon="-82.92003325881001">
+      <name>Left</name>
+      <cmt>CONTROL CITGO 24 hours</cmt>
+    </rtept>
+    <rtept lat="29.561830000000004" lon="-82.90717000000001">
+      <name>Left</name>
+      <cmt>Turn left onto NW 160th St</cmt>
+    </rtept>
+    <rtept lat="29.56246" lon="-82.77035999999998">
+      <name>Right</name>
+      <cmt>Turn right onto NE Co Rd 339</cmt>
+    </rtept>
+    <rtept lat="29.476720000000004" lon="-82.68470000000002">
+      <name>Left</name>
+      <cmt>Turn left onto US-27 ALT S</cmt>
+    </rtept>
+    <rtept lat="29.444710000000004" lon="-82.63583">
+      <name>Right</name>
+      <cmt>Turn right onto NE Co Rd 337/Pennsylvania Ave</cmt>
+    </rtept>
+    <rtept lat="29.421910000000004" lon="-82.62551000000002">
+      <name>Straight</name>
+      <cmt>Continue onto State Hwy 337</cmt>
+    </rtept>
+    <rtept lat="29.420500000000004" lon="-82.62497000000002">
+      <name>Straight</name>
+      <cmt>Continue onto NE Co Rd 337</cmt>
+    </rtept>
+    <rtept lat="29.12891" lon="-82.57051000000001">
+      <name>Left</name>
+      <cmt>Turn left onto SE Co Rd 336</cmt>
+    </rtept>
+    <rtept lat="29.06792" lon="-82.52676000000002">
+      <name>Straight</name>
+      <cmt>Continue onto SW Co Hwy 336</cmt>
+    </rtept>
+    <rtept lat="29.063340000000004" lon="-82.52238">
+      <name>Left</name>
+      <cmt>Slight left onto Co Rd 40</cmt>
+    </rtept>
+    <rtept lat="29.049480000000003" lon="-82.46528">
+      <name>Left</name>
+      <cmt>Turn left onto W Pennsylvania Ave</cmt>
+    </rtept>
+    <rtept lat="29.04963719479662" lon="-82.46133131525727">
+      <name>Left</name>
+      <cmt>CONTROL circle K 24 hours</cmt>
+    </rtept>
+    <rtept lat="29.023660000000003" lon="-82.45618000000002">
+      <name>Right</name>
+      <cmt>Turn right onto W G Martinelli Blvd</cmt>
+    </rtept>
+    <rtept lat="29.025460000000002" lon="-82.46368999999999">
+      <name>Left</name>
+      <cmt>Turn left onto N Haitian Dr</cmt>
+    </rtept>
+    <rtept lat="29.02512" lon="-82.46638000000002">
+      <name>Right</name>
+      <cmt>Turn right onto W Shellbark Dr</cmt>
+    </rtept>
+    <rtept lat="29.02645377719431" lon="-82.47105813279995">
+      <name>Left</name>
+      <cmt>INFO CONTROL</cmt>
+    </rtept>
+    <rtept lat="28.89872" lon="-82.37459000000001">
+      <name>Right</name>
+      <cmt>Turn right to stay on Florida Trail/Withlacoochee State Trail</cmt>
+    </rtept>
+    <rtept lat="28.898540000000004" lon="-82.37525">
+      <name>Left</name>
+      <cmt>Turn left to stay on Florida Trail/Withlacoochee State Trail</cmt>
+    </rtept>
+    <rtept lat="28.89834" lon="-82.37522999999999">
+      <name>Left</name>
+      <cmt>Turn left to stay on Florida Trail/Withlacoochee State Trail</cmt>
+    </rtept>
+    <rtept lat="28.898400000000002" lon="-82.37432000000001">
+      <name>Right</name>
+      <cmt>Turn right to stay on Florida Trail/Withlacoochee State Trail</cmt>
+    </rtept>
+    <rtept lat="28.462470000000003" lon="-82.19601999999998">
+      <name>Left</name>
+      <cmt>Turn left onto Trilby Rd</cmt>
+    </rtept>
+    <rtept lat="28.46339901860756" lon="-82.19370868407555">
+      <name>Left</name>
+      <cmt>CONTROL TRILBY CITGO</cmt>
+    </rtept>
+    <rtept lat="28.463990000000003" lon="-82.18342999999999">
+      <name>Straight</name>
+      <cmt>Continue onto FL-575 N</cmt>
+    </rtept>
+    <rtept lat="28.478230000000003" lon="-82.15523999999999">
+      <name>Straight</name>
+      <cmt>Continue onto Burwell Rd</cmt>
+    </rtept>
+    <rtept lat="28.507150000000003" lon="-82.15436">
+      <name>Right</name>
+      <cmt>Turn right onto FL-50 E</cmt>
+    </rtept>
+    <rtept lat="28.55347" lon="-82.08773000000002">
+      <name>Left</name>
+      <cmt>Turn left onto Co Rd 755</cmt>
+    </rtept>
+    <rtept lat="28.55552" lon="-82.08752000000004">
+      <name>Left</name>
+      <cmt>Turn left onto C 478A</cmt>
+    </rtept>
+    <rtept lat="28.58463" lon="-82.09055999999998">
+      <name>Right</name>
+      <cmt>Turn right onto County Rd 753 S</cmt>
+    </rtept>
+    <rtept lat="28.585440000000002" lon="-82.06317999999999">
+      <name>Straight</name>
+      <cmt>Continue onto Co Rd 753</cmt>
+    </rtept>
+    <rtept lat="28.5954" lon="-82.06290999999999">
+      <name>Right</name>
+      <cmt>Turn right onto Co Rd 762</cmt>
+    </rtept>
+    <rtept lat="28.59542" lon="-82.05471">
+      <name>Left</name>
+      <cmt>Turn left onto FL-471 N</cmt>
+    </rtept>
+    <rtept lat="28.608690000000003" lon="-82.05468000000002">
+      <name>Right</name>
+      <cmt>Turn right onto SE 1st Ave</cmt>
+    </rtept>
+    <rtept lat="28.609820000000003" lon="-82.04633999999999">
+      <name>Straight</name>
+      <cmt>Continue onto E Central Ave/E Co Rd 478</cmt>
+    </rtept>
+    <rtept lat="28.647050000000004" lon="-81.99687">
+      <name>Right</name>
+      <cmt>Turn right onto Market St</cmt>
+    </rtept>
+    <rtept lat="28.649890000000003" lon="-81.99239999999998">
+      <name>Straight</name>
+      <cmt>Continue onto FL-48 E</cmt>
+    </rtept>
+    <rtept lat="28.653430000000004" lon="-81.98693000000003">
+      <name>Right</name>
+      <cmt>Slight right onto Co Rd 702</cmt>
+    </rtept>
+    <rtept lat="28.65595" lon="-81.95434">
+      <name>Straight</name>
+      <cmt>Continue onto Youth Camp Rd</cmt>
+    </rtept>
+    <rtept lat="28.66768" lon="-81.92554000000001">
+      <name>Straight</name>
+      <cmt>Continue straight onto Austin Merritt Rd</cmt>
+    </rtept>
+    <rtept lat="28.678430000000002" lon="-81.89634999999998">
+      <name>Straight</name>
+      <cmt>Continue onto Bridges Rd</cmt>
+    </rtept>
+    <rtept lat="28.685640000000003" lon="-81.85498999999999">
+      <name>Left</name>
+      <cmt>Turn left at the 1st cross street onto US-27 N</cmt>
+    </rtept>
+    <rtept lat="28.696250000000003" lon="-81.85692">
+      <name>Right</name>
+      <cmt>Turn right onto Dewey Robbins Rd</cmt>
+    </rtept>
+    <rtept lat="28.695690000000003" lon="-81.82239000000004">
+      <name>Right</name>
+      <cmt>Dewey Robbins Rd turns right and becomes S Dewey Robins Rd</cmt>
+    </rtept>
+    <rtept lat="28.681420000000003" lon="-81.82209999999998">
+      <name>Left</name>
+      <cmt>Turn left onto E Dewey Robbins Rd</cmt>
+    </rtept>
+    <rtept lat="28.68156" lon="-81.77976000000001">
+      <name>Right</name>
+      <cmt>Turn right onto FL-19 S</cmt>
+    </rtept>
+    <rtept lat="28.672860000000004" lon="-81.77936">
+      <name>Left</name>
+      <cmt>Turn left onto County Rd 455</cmt>
+    </rtept>
+    <rtept lat="28.666890000000002" lon="-81.76189">
+      <name>Right</name>
+      <cmt>Turn right onto S Buckhill Rd</cmt>
+    </rtept>
+    <rtept lat="28.64506" lon="-81.76414">
+      <name>Left</name>
+      <cmt>Turn left onto Howey Cross Rd</cmt>
+    </rtept>
+    <rtept lat="28.644980000000004" lon="-81.74792000000002">
+      <name>Left</name>
+      <cmt>Turn left onto County Rd 561</cmt>
+    </rtept>
+    <rtept lat="28.648680000000002" lon="-81.74578000000002">
+      <name>Right</name>
+      <cmt>Turn right onto Sugarloaf Mountain Rd</cmt>
+    </rtept>
+    <rtept lat="28.647384516922358" lon="-81.73116016757848">
+      <name>Left</name>
+      <cmt>INFO CONTROL: ANSWER QUESTION ON CARD</cmt>
+    </rtept>
+    <rtept lat="28.648680000000002" lon="-81.74578000000002">
+      <name>Right</name>
+      <cmt>Turn right onto County Rd 561</cmt>
+    </rtept>
+    <rtept lat="28.666670000000003" lon="-81.73728000000001">
+      <name>Straight</name>
+      <cmt>At the traffic circle, take the 2nd exit</cmt>
+    </rtept>
+    <rtept lat="28.667360000000002" lon="-81.73742">
+      <name>Straight</name>
+      <cmt>Continue onto County Rd 561</cmt>
+    </rtept>
+    <rtept lat="28.785300000000003" lon="-81.74828000000001">
+      <name>Right</name>
+      <cmt>Slight right onto FL-19 N</cmt>
+    </rtept>
+    <rtept lat="28.80242" lon="-81.73805">
+      <name>Right</name>
+      <cmt>Turn right onto W Main St</cmt>
+    </rtept>
+    <rtept lat="28.802210000000002" lon="-81.73143">
+      <name>Straight</name>
+      <cmt>At the traffic circle, continue straight to stay on W Main St</cmt>
+    </rtept>
+    <rtept lat="28.80211811870094" lon="-81.72511094193618">
+      <name>Left</name>
+      <cmt>DANGEROUS RR RACKS</cmt>
+    </rtept>
+    <rtept lat="28.802120000000002" lon="-81.72487000000001">
+      <name>Straight</name>
+      <cmt>At the traffic circle, continue straight onto Lake Dora Dr</cmt>
+    </rtept>
+    <rtept lat="28.801990000000004" lon="-81.71920999999998">
+      <name>Left</name>
+      <cmt>Turn left onto Dora Ave</cmt>
+    </rtept>
+    <rtept lat="28.81369" lon="-81.71415000000002">
+      <name>Left</name>
+      <cmt>Turn left onto Mt Homer Rd</cmt>
+    </rtept>
+    <rtept lat="28.81659" lon="-81.71253999999999">
+      <name>Left</name>
+      <cmt>Turn left onto Nightingale Ln</cmt>
+    </rtept>
+    <rtept lat="28.82177" lon="-81.71489000000003">
+      <name>Left</name>
+      <cmt>Turn left onto E Burleigh Blvd</cmt>
+    </rtept>
+    <rtept lat="28.820420000000002" lon="-81.72182000000001">
+      <name>Straight</name>
+      <cmt>Make a U-turn at Lake Eustis Dr</cmt>
+    </rtept>
+    <rtept lat="28.820055787530734" lon="-81.72100225272703">
+      <name>Left</name>
+      <cmt>OVERNIGHT INN ON THE GREEN TAVARES</cmt>
+    </rtept>
+    <rtept lat="28.82177" lon="-81.71489000000003">
+      <name>Right</name>
+      <cmt>Turn right onto Nightingale Ln</cmt>
+    </rtept>
+    <rtept lat="28.816630000000004" lon="-81.71260000000001">
+      <name>Right</name>
+      <cmt>Turn right onto S Mt Homer Rd</cmt>
+    </rtept>
+    <rtept lat="28.81369" lon="-81.71415000000002">
+      <name>Right</name>
+      <cmt>Turn right onto Dora Ave</cmt>
+    </rtept>
+    <rtept lat="28.801990000000004" lon="-81.71920999999998">
+      <name>Left</name>
+      <cmt>Turn left onto Lake Dora Dr</cmt>
+    </rtept>
+    <rtept lat="28.80216" lon="-81.71207000000004">
+      <name>Straight</name>
+      <cmt>Continue onto Lakeshore Dr</cmt>
+    </rtept>
+    <rtept lat="28.80618" lon="-81.65766000000002">
+      <name>Right</name>
+      <cmt>Slight right onto W Old US Hwy 441</cmt>
+    </rtept>
+    <rtept lat="28.800530000000002" lon="-81.64679000000001">
+      <name>Straight</name>
+      <cmt>Continue onto W 5th Ave</cmt>
+    </rtept>
+    <rtept lat="28.800530000000002" lon="-81.64472">
+      <name>Right</name>
+      <cmt>Turn right onto N Donnelly St</cmt>
+    </rtept>
+    <rtept lat="28.79803" lon="-81.6447">
+      <name>Left</name>
+      <cmt>Turn left onto Charles Ave</cmt>
+    </rtept>
+    <rtept lat="28.797040000000003" lon="-81.64260000000002">
+      <name>Right</name>
+      <cmt>Turn right onto S Tremain St</cmt>
+    </rtept>
+    <rtept lat="28.794110000000003" lon="-81.64233999999999">
+      <name>Left</name>
+      <cmt>S Tremain St turns left and becomes Liberty Ave</cmt>
+    </rtept>
+    <rtept lat="28.794100000000004" lon="-81.64031">
+      <name>Right</name>
+      <cmt>Turn right onto S Grandview St</cmt>
+    </rtept>
+    <rtept lat="28.791300000000003" lon="-81.64026000000001">
+      <name>Left</name>
+      <cmt>Turn left onto Orange Ave</cmt>
+    </rtept>
+    <rtept lat="28.791320000000002" lon="-81.63821999999999">
+      <name>Right</name>
+      <cmt>Turn right onto S Clayton St</cmt>
+    </rtept>
+    <rtept lat="28.778000000000002" lon="-81.63798000000003">
+      <name>Left</name>
+      <cmt>Turn left onto Beauclair Ave</cmt>
+    </rtept>
+    <rtept lat="28.777910000000002" lon="-81.63612">
+      <name>Right</name>
+      <cmt>Turn right onto Allen St</cmt>
+    </rtept>
+    <rtept lat="28.768770000000004" lon="-81.63333999999998">
+      <name>Left</name>
+      <cmt>Turn left onto Dudley Ave</cmt>
+    </rtept>
+    <rtept lat="28.768680000000003" lon="-81.63062000000002">
+      <name>Right</name>
+      <cmt>Turn right onto Lake St</cmt>
+    </rtept>
+    <rtept lat="28.75946" lon="-81.63060999999999">
+      <name>Left</name>
+      <cmt>Turn left onto Lake Ola Dr</cmt>
+    </rtept>
+    <rtept lat="28.759090000000004" lon="-81.62459999999999">
+      <name>Right</name>
+      <cmt>Turn right onto US-441 S/N Orange Blossom Trail</cmt>
+    </rtept>
+    <rtept lat="28.74893" lon="-81.62017000000003">
+      <name>Left</name>
+      <cmt>Turn left onto Sadler Ave</cmt>
+    </rtept>
+    <rtept lat="28.74912" lon="-81.59314">
+      <name>Right</name>
+      <cmt>Turn right onto Round Lake Rd</cmt>
+    </rtept>
+    <rtept lat="28.72736" lon="-81.59298000000001">
+      <name>Left</name>
+      <cmt>Turn left onto W Ponkan Rd</cmt>
+    </rtept>
+    <rtept lat="28.72753" lon="-81.5589">
+      <name>Right</name>
+      <cmt>Turn right onto Plymouth Sorrento Rd</cmt>
+    </rtept>
+    <rtept lat="28.7129" lon="-81.55758000000003">
+      <name>Left</name>
+      <cmt>Turn left onto W Lester Rd</cmt>
+    </rtept>
+    <rtept lat="28.713600000000003" lon="-81.52548999999999">
+      <name>Right</name>
+      <cmt>Turn right onto Vick Rd</cmt>
+    </rtept>
+    <rtept lat="28.70632" lon="-81.52539999999999">
+      <name>Left</name>
+      <cmt>Turn left onto W Welch Rd</cmt>
+    </rtept>
+    <rtept lat="28.70585" lon="-81.50914">
+      <name>Right</name>
+      <cmt>Turn right onto Rock Springs Rd</cmt>
+    </rtept>
+    <rtept lat="28.705740000000002" lon="-81.50914">
+      <name>Left</name>
+      <cmt>Turn left onto W Orange Trail</cmt>
+    </rtept>
+    <rtept lat="28.683940000000003" lon="-81.50538">
+      <name>Right</name>
+      <cmt>Slight right to stay on W Orange Trail</cmt>
+    </rtept>
+    <rtept lat="28.68033" lon="-81.50635999999997">
+      <name>Left</name>
+      <cmt>Slight left to stay on W Orange Trail</cmt>
+    </rtept>
+    <rtept lat="28.61812" lon="-81.49949000000004">
+      <name>Left</name>
+      <cmt>Turn left to stay on W Orange Trail</cmt>
+    </rtept>
+    <rtept lat="28.61662" lon="-81.49950999999999">
+      <name>Right</name>
+      <cmt>Slight right to stay on W Orange Trail</cmt>
+    </rtept>
+    <rtept lat="28.57307" lon="-81.57697000000002">
+      <name>Left</name>
+      <cmt>Turn left to stay on W Orange Trail</cmt>
+    </rtept>
+    <rtept lat="28.565820000000002" lon="-81.58566000000002">
+      <name>Left</name>
+      <cmt>Slight left to stay on W Orange Trail</cmt>
+    </rtept>
+    <rtept lat="28.565730000000002" lon="-81.58576">
+      <name>Right</name>
+      <cmt>Turn right onto W Plant St</cmt>
+    </rtept>
+    <rtept lat="28.56501" lon="-81.58999">
+      <name>Right</name>
+      <cmt>Slight right onto W Orange Trail</cmt>
+    </rtept>
+    <rtept lat="28.557330000000004" lon="-81.62828000000002">
+      <name>Right</name>
+      <cmt>Slight right to stay on W Orange Trail</cmt>
+    </rtept>
+    <rtept lat="28.557270000000003" lon="-81.62837000000002">
+      <name>Right</name>
+      <cmt>Turn right to stay on W Orange Trail</cmt>
+    </rtept>
+    <rtept lat="28.546860000000002" lon="-81.65152">
+      <name>Left</name>
+      <cmt>Turn left onto FL-438 S</cmt>
+    </rtept>
+    <rtept lat="28.546882801257794" lon="-81.6510144027958">
+      <name>Left</name>
+      <cmt>CONTROL KANGAROO -- 24 hours</cmt>
+    </rtept>
+    <rtept lat="28.546860000000002" lon="-81.65152">
+      <name>Left</name>
+      <cmt>Turn left onto S Lake Trail (Lake Apopka Trail)</cmt>
+    </rtept>
+    <rtept lat="28.552120000000002" lon="-81.68232">
+      <name>Right</name>
+      <cmt>Turn right to stay on S Lake Trail (Lake Apopka Trail)</cmt>
+    </rtept>
+    <rtept lat="28.563180000000003" lon="-81.69481000000002">
+      <name>Right</name>
+      <cmt>Slight right to stay on S Lake Trail (Lake Apopka Trail)</cmt>
+    </rtept>
+    <rtept lat="28.568980000000003" lon="-81.71981">
+      <name>Left</name>
+      <cmt>Slight left to stay on S Lake Trail (Lake Apopka Trail)</cmt>
+    </rtept>
+    <rtept lat="28.568590000000004" lon="-81.71991000000003">
+      <name>Right</name>
+      <cmt>Turn right to stay on S Lake Trail (Lake Apopka Trail)</cmt>
+    </rtept>
+    <rtept lat="28.55748" lon="-81.76875999999999">
+      <name>Right</name>
+      <cmt>Turn right to stay on S Lake Trail (Lake Apopka Trail)</cmt>
+    </rtept>
+    <rtept lat="28.568820000000002" lon="-81.80617000000001">
+      <name>Right</name>
+      <cmt>Slight right to stay on S Lake Trail (Lake Apopka Trail)</cmt>
+    </rtept>
+    <rtept lat="28.565170000000002" lon="-81.81840999999997">
+      <name>Left</name>
+      <cmt>Turn left onto Silver Eagle Rd</cmt>
+    </rtept>
+    <rtept lat="28.565040000000003" lon="-81.81830000000002">
+      <name>Right</name>
+      <cmt>Turn right onto County Rd 565A</cmt>
+    </rtept>
+    <rtept lat="28.560540000000003" lon="-81.82263999999998">
+      <name>Right</name>
+      <cmt>Turn right toward FL-50 W/Broad St</cmt>
+    </rtept>
+    <rtept lat="28.55806" lon="-81.82623000000001">
+      <name>Right</name>
+      <cmt>Turn right onto FL-50 W/Broad St</cmt>
+    </rtept>
+    <rtept lat="28.55807" lon="-81.84737999999999">
+      <name>Left</name>
+      <cmt>Turn left onto Gadson St</cmt>
+    </rtept>
+    <rtept lat="28.550990000000002" lon="-81.84751">
+      <name>Right</name>
+      <cmt>Slight right onto E Anderson Rd</cmt>
+    </rtept>
+    <rtept lat="28.550860000000004" lon="-81.86376000000001">
+      <name>Left</name>
+      <cmt>Turn left onto Empire Rd/Empire Church Rd</cmt>
+    </rtept>
+    <rtept lat="28.52971" lon="-81.91251">
+      <name>Left</name>
+      <cmt>Turn left onto South Bay Lake Rd</cmt>
+    </rtept>
+    <rtept lat="28.45548" lon="-81.92241000000001">
+      <name>Left</name>
+      <cmt>Turn left onto Florida Trail/Van Fleet Trail</cmt>
+    </rtept>
+    <rtept lat="28.180100000000003" lon="-81.82796000000002">
+      <name>Straight</name>
+      <cmt>Continue onto Teco Auburndale Trail</cmt>
+    </rtept>
+    <rtept lat="28.08442" lon="-81.82162">
+      <name>Left</name>
+      <cmt>Turn left onto Denton Ave</cmt>
+    </rtept>
+    <rtept lat="28.073480000000004" lon="-81.81748">
+      <name>Left</name>
+      <cmt>Turn left onto Old Lakeland Auburndale Rd</cmt>
+    </rtept>
+    <rtept lat="28.07345" lon="-81.80922000000001">
+      <name>Straight</name>
+      <cmt>Continue onto Ramsgate Rd</cmt>
+    </rtept>
+    <rtept lat="28.065680000000004" lon="-81.80088">
+      <name>Right</name>
+      <cmt>Slight right onto Pearl St</cmt>
+    </rtept>
+    <rtept lat="28.065590000000004" lon="-81.80087">
+      <name>Left</name>
+      <cmt>Turn left onto Pilaklakaha Ave</cmt>
+    </rtept>
+    <rtept lat="28.065590000000004" lon="-81.79678000000001">
+      <name>Right</name>
+      <cmt>Turn right onto McKean St</cmt>
+    </rtept>
+    <rtept lat="28.05990748263037" lon="-81.79674342487249">
+      <name>Left</name>
+      <cmt>CAUTION RR TRACKS</cmt>
+    </rtept>
+    <rtept lat="28.051340000000003" lon="-81.79676">
+      <name>Left</name>
+      <cmt>Turn left onto Co Rd 655/Recker Hwy</cmt>
+    </rtept>
+    <rtept lat="28.005020000000002" lon="-81.75199">
+      <name>Left</name>
+      <cmt>Turn left onto Lake Shipp Dr</cmt>
+    </rtept>
+    <rtept lat="27.99481" lon="-81.73819">
+      <name>Straight</name>
+      <cmt>Continue onto Co Rd 655/Snively Ave</cmt>
+    </rtept>
+    <rtept lat="27.916410000000003" lon="-81.72640000000001">
+      <name>Left</name>
+      <cmt>Turn left onto FL-60 E</cmt>
+    </rtept>
+    <rtept lat="27.915845565871567" lon="-81.71867413380625">
+      <name>Left</name>
+      <cmt>CONTROL CIRCLE K 24 hours</cmt>
+    </rtept>
+    <rtept lat="27.878950000000003" lon="-81.72228000000001">
+      <name>Straight</name>
+      <cmt>Continue onto E Central Ave</cmt>
+    </rtept>
+    <rtept lat="27.871710000000004" lon="-81.71724">
+      <name>Right</name>
+      <cmt>Turn right onto 2nd St</cmt>
+    </rtept>
+    <rtept lat="27.870340000000002" lon="-81.71728999999999">
+      <name>Right</name>
+      <cmt>Turn right onto Poinsettia Rd</cmt>
+    </rtept>
+    <rtept lat="27.870300000000004" lon="-81.71924000000001">
+      <name>Left</name>
+      <cmt>Poinsettia Rd turns left and becomes Perch Lake Rd</cmt>
+    </rtept>
+    <rtept lat="27.857170000000004" lon="-81.71941000000004">
+      <name>Left</name>
+      <cmt>Turn left onto Alturas Babson Park Cutoff Rd</cmt>
+    </rtept>
+    <rtept lat="27.85705" lon="-81.69695999999999">
+      <name>Straight</name>
+      <cmt>Continue onto Alturas Babson Park Railroad Cutoff</cmt>
+    </rtept>
+    <rtept lat="27.856990000000003" lon="-81.69100000000003">
+      <name>Right</name>
+      <cmt>Alturas Babson Park Railroad Cutoff turns right and becomes Alturas Babson Park Rd</cmt>
+    </rtept>
+    <rtept lat="27.849790000000002" lon="-81.69094999999999">
+      <name>Left</name>
+      <cmt>Turn left onto Alturas Babson Park Cutoff/Marshal Rd</cmt>
+    </rtept>
+    <rtept lat="27.838960000000004" lon="-81.64337999999998">
+      <name>Right</name>
+      <cmt>Turn right onto Lake Buffum Rd E</cmt>
+    </rtept>
+    <rtept lat="27.814290000000003" lon="-81.64254">
+      <name>Left</name>
+      <cmt>Turn left onto Lake Buffum Rd N</cmt>
+    </rtept>
+    <rtept lat="27.77034" lon="-81.65028000000001">
+      <name>Straight</name>
+      <cmt>Continue straight onto N Rhoden Rd</cmt>
+    </rtept>
+    <rtept lat="27.733430000000002" lon="-81.64615000000003">
+      <name>Left</name>
+      <cmt>Turn left onto US-98 S</cmt>
+    </rtept>
+    <rtept lat="27.73363" lon="-81.57276000000002">
+      <name>Straight</name>
+      <cmt>Continue straight onto Co Rd 630</cmt>
+    </rtept>
+    <rtept lat="27.733700000000002" lon="-81.56433000000004">
+      <name>Straight</name>
+      <cmt>Continue onto Fort Meade Rd</cmt>
+    </rtept>
+    <rtept lat="27.726270000000003" lon="-81.54785000000004">
+      <name>Right</name>
+      <cmt>Turn right onto Hopson Rd</cmt>
+    </rtept>
+    <rtept lat="27.71901" lon="-81.5478">
+      <name>Left</name>
+      <cmt>Turn left onto Kelly Rd</cmt>
+    </rtept>
+    <rtept lat="27.718740000000004" lon="-81.53093999999999">
+      <name>Straight</name>
+      <cmt>Continue onto T S Wilson Rd</cmt>
+    </rtept>
+    <rtept lat="27.71891" lon="-81.50653999999997">
+      <name>Right</name>
+      <cmt>Turn right onto Old Avon Park Rd</cmt>
+    </rtept>
+    <rtept lat="27.644550000000002" lon="-81.48608999999999">
+      <name>Straight</name>
+      <cmt>Continue onto County Rd 627</cmt>
+    </rtept>
+    <rtept lat="27.61745" lon="-81.48589000000004">
+      <name>Right</name>
+      <cmt>Turn right onto County Rd 17A E/Truck Route</cmt>
+    </rtept>
+    <rtept lat="27.617440000000002" lon="-81.50223">
+      <name>Left</name>
+      <cmt>Turn left onto N Lake Ave</cmt>
+    </rtept>
+    <rtept lat="27.59587" lon="-81.50218000000001">
+      <name>Right</name>
+      <cmt>Turn right onto W Main St</cmt>
+    </rtept>
+    <rtept lat="27.59587" lon="-81.50625000000002">
+      <name>Left</name>
+      <cmt>Turn left onto S Central Ave</cmt>
+    </rtept>
+    <rtept lat="27.589610000000004" lon="-81.50623000000002">
+      <name>Right</name>
+      <cmt>Slight right onto Tulane Cir</cmt>
+    </rtept>
+    <rtept lat="27.588320000000003" lon="-81.50675000000001">
+      <name>Left</name>
+      <cmt>Turn left onto S Lake Blvd/Lakeview Blvd</cmt>
+    </rtept>
+    <rtept lat="27.57599" lon="-81.50988000000001">
+      <name>Right</name>
+      <cmt>Turn right onto Marble Ave</cmt>
+    </rtept>
+    <rtept lat="27.57713321175123" lon="-81.51351452250543">
+      <name>Left</name>
+      <cmt>CONTROL RACETRACK 24 hours</cmt>
+    </rtept>
+    <rtept lat="27.57618" lon="-81.51037000000002">
+      <name>Left</name>
+      <cmt>Turn left onto S Lake Blvd</cmt>
+    </rtept>
+    <rtept lat="27.578630000000004" lon="-81.50630000000001">
+      <name>Right</name>
+      <cmt>Turn right onto Geese St</cmt>
+    </rtept>
+    <rtept lat="27.579710000000002" lon="-81.50218000000001">
+      <name>Straight</name>
+      <cmt>Continue onto Alice Nelson St</cmt>
+    </rtept>
+    <rtept lat="27.57984" lon="-81.49948">
+      <name>Right</name>
+      <cmt>Turn right onto Strong Ave</cmt>
+    </rtept>
+    <rtept lat="27.57928" lon="-81.49910999999997">
+      <name>Left</name>
+      <cmt>Turn left onto E 6th St</cmt>
+    </rtept>
+    <rtept lat="27.579210000000003" lon="-81.49819000000002">
+      <name>Straight</name>
+      <cmt>Continue onto E 5th St</cmt>
+    </rtept>
+    <rtept lat="27.577890000000004" lon="-81.49572">
+      <name>Left</name>
+      <cmt>Turn left onto S Carolina St</cmt>
+    </rtept>
+    <rtept lat="27.578010000000003" lon="-81.49407000000002">
+      <name>Right</name>
+      <cmt>Turn right onto Memorial Dr</cmt>
+    </rtept>
+    <rtept lat="27.569420033211973" lon="-81.49406300769044">
+      <name>Left</name>
+      <cmt>RR TRACKS</cmt>
+    </rtept>
+    <rtept lat="27.544790000000003" lon="-81.49409">
+      <name>Left</name>
+      <cmt>Turn left onto Manatee Dr</cmt>
+    </rtept>
+    <rtept lat="27.52943" lon="-81.45351">
+      <name>Right</name>
+      <cmt>Turn right onto FL-17 S</cmt>
+    </rtept>
+    <rtept lat="27.52204" lon="-81.45344999999998">
+      <name>Left</name>
+      <cmt>Turn left toward Arbuckle Creek Rd</cmt>
+    </rtept>
+    <rtept lat="27.520920000000004" lon="-81.45253000000002">
+      <name>Left</name>
+      <cmt>Turn left onto Arbuckle Creek Rd</cmt>
+    </rtept>
+    <rtept lat="27.445872250486453" lon="-81.25651741478617">
+      <name>Left</name>
+      <cmt>RR TRACKS</cmt>
+    </rtept>
+    <rtept lat="27.445412721565646" lon="-81.25653534557432">
+      <name>Left</name>
+      <cmt>Turn LEFT onto US98</cmt>
+    </rtept>
+    <rtept lat="27.44518" lon="-81.25654">
+      <name>Left</name>
+      <cmt>Turn left at the 1st cross street onto US-98 S</cmt>
+    </rtept>
+    <rtept lat="27.243550000000003" lon="-80.84899999999999">
+      <name>Right</name>
+      <cmt>Turn right onto FL-70 W</cmt>
+    </rtept>
+    <rtept lat="27.243550000000003" lon="-80.85306000000003">
+      <name>Left</name>
+      <cmt>Turn left onto SW 24th Ave</cmt>
+    </rtept>
+    <rtept lat="27.214460000000003" lon="-80.85294">
+      <name>Left</name>
+      <cmt>Turn left onto SW 32nd St</cmt>
+    </rtept>
+    <rtept lat="27.214520000000004" lon="-80.82993">
+      <name>Right</name>
+      <cmt>Turn right onto US-441 S/US-98 S</cmt>
+    </rtept>
+    <rtept lat="27.206704515854145" lon="-80.83017088917427">
+      <name>Left</name>
+      <cmt>OVERNIGHT FLAMINGO MOTEL</cmt>
+    </rtept>
+    <rtept lat="27.19431" lon="-80.76294000000001">
+      <name>Right</name>
+      <cmt>Turn right toward Florida Trail/Lake Okeechobee Scenic Trail</cmt>
+    </rtept>
+    <rtept lat="27.192980000000002" lon="-80.76382999999998">
+      <name>Left</name>
+      <cmt>Turn left onto Florida Trail/Lake Okeechobee Scenic Trail</cmt>
+    </rtept>
+    <rtept lat="26.992102089275363" lon="-80.62197930943353">
+      <name>Left</name>
+      <cmt>CONTROL GATE LOOK FOR IT</cmt>
+    </rtept>
+    <rtept lat="26.992330000000003" lon="-80.61899000000001">
+      <name>Right</name>
+      <cmt>Turn right onto US-441 S/US-98 S</cmt>
+    </rtept>
+    <rtept lat="26.949425543207816" lon="-80.60954076715763">
+      <name>Left</name>
+      <cmt>NASTY NASTY RR TRACKS PLZ WALK</cmt>
+    </rtept>
+    <rtept lat="26.862000000000002" lon="-80.63112000000001">
+      <name>Straight</name>
+      <cmt>Continue straight onto W Main St</cmt>
+    </rtept>
+    <rtept lat="26.861972399186882" lon="-80.63087867765074">
+      <name>Left</name>
+      <cmt>CONTROL STOP AND SHOP </cmt>
+    </rtept>
+    <rtept lat="26.85921" lon="-80.62569000000002">
+      <name>Straight</name>
+      <cmt>Continue onto Old Conners Rd</cmt>
+    </rtept>
+    <rtept lat="26.725640000000002" lon="-80.45131000000003">
+      <name>Straight</name>
+      <cmt>Continue onto Connors Hwy</cmt>
+    </rtept>
+    <rtept lat="26.68448" lon="-80.38995999999997">
+      <name>Left</name>
+      <cmt>Turn left onto E Canal St S</cmt>
+    </rtept>
+    <rtept lat="26.68711" lon="-80.38764000000003">
+      <name>Right</name>
+      <cmt>Turn right onto US-441 S/US-98/Southern Blvd</cmt>
+    </rtept>
+    <rtept lat="26.682920000000003" lon="-80.29122000000001">
+      <name>Right</name>
+      <cmt>Turn right onto Binks Forest Dr</cmt>
+    </rtept>
+    <rtept lat="26.667610000000003" lon="-80.28665000000001">
+      <name>Left</name>
+      <cmt>Turn left onto Aero Club Dr/Greenview Shores Blvd</cmt>
+    </rtept>
+    <rtept lat="26.64269" lon="-80.26150999999999">
+      <name>Right</name>
+      <cmt>Turn right onto S Shore Blvd</cmt>
+    </rtept>
+    <rtept lat="26.607870000000002" lon="-80.26241">
+      <name>Left</name>
+      <cmt>Turn left onto 50th St S</cmt>
+    </rtept>
+    <rtept lat="26.607360000000003" lon="-80.23804000000001">
+      <name>Right</name>
+      <cmt>Turn right to stay on 50th St S</cmt>
+    </rtept>
+    <rtept lat="26.606430000000003" lon="-80.20541">
+      <name>Right</name>
+      <cmt>Turn right onto US-441 S</cmt>
+    </rtept>
+    <rtept lat="26.591450000000002" lon="-80.20596">
+      <name>Left</name>
+      <cmt>Turn left onto FL-812</cmt>
+    </rtept>
+    <rtept lat="26.590860000000003" lon="-80.18932000000001">
+      <name>Right</name>
+      <cmt>Turn right onto Lyons Rd</cmt>
+    </rtept>
+    <rtept lat="26.32317" lon="-80.18660999999997">
+      <name>Right</name>
+      <cmt>Turn right onto NW 74th Pl</cmt>
+    </rtept>
+    <rtept lat="26.323190000000004" lon="-80.19081">
+      <name>Right</name>
+      <cmt>Turn right onto NW 48th Ave</cmt>
+    </rtept>
+    <rtept lat="26.327090000000002" lon="-80.19045">
+      <name>Left</name>
+      <cmt>NW 48th Ave turns left and becomes NW 77th Ct</cmt>
+    </rtept>
+    <rtept lat="26.327040000000004" lon="-80.20213000000001">
+      <name>Left</name>
+      <cmt>NW 77th Ct turns left and becomes NW 56th Way</cmt>
+    </rtept>
+    <rtept lat="26.326240000000002" lon="-80.2022">
+      <name>Right</name>
+      <cmt>NW 56th Way turns right and becomes NW 76th Pl</cmt>
+    </rtept>
+    <rtept lat="26.326220000000003" lon="-80.20272999999997">
+      <name>Straight</name>
+      <cmt>Continue onto Loxahatchee Rd</cmt>
+    </rtept>
+    <rtept lat="26.326441549345752" lon="-80.20326258963212">
+      <name>Left</name>
+      <cmt>CONTROL WAWA  24 hours</cmt>
+    </rtept>
+    <rtept lat="26.33255" lon="-80.22086999999999">
+      <name>Left</name>
+      <cmt>Turn left onto Parkside Dr</cmt>
+    </rtept>
+    <rtept lat="26.310650000000003" lon="-80.22252000000003">
+      <name>Straight</name>
+      <cmt>At the traffic circle, take the 1st exit onto Holmberg Rd</cmt>
+    </rtept>
+    <rtept lat="26.310640000000003" lon="-80.23457000000002">
+      <name>Straight</name>
+      <cmt>At the traffic circle, take the 2nd exit onto Riverside Dr</cmt>
+    </rtept>
+    <rtept lat="26.298070000000003" lon="-80.23720000000003">
+      <name>Right</name>
+      <cmt>Turn right onto Westview Dr</cmt>
+    </rtept>
+    <rtept lat="26.297400000000003" lon="-80.27906000000002">
+      <name>Left</name>
+      <cmt>Turn left onto Coral Ridge Dr</cmt>
+    </rtept>
+    <rtept lat="26.289160000000003" lon="-80.28264000000001">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="26.28834" lon="-80.28291000000002">
+      <name>Left</name>
+      <cmt>Turn left toward Coral Ridge Dr</cmt>
+    </rtept>
+    <rtept lat="26.28835" lon="-80.28264999999999">
+      <name>Right</name>
+      <cmt>Turn right onto Coral Ridge Dr</cmt>
+    </rtept>
+    <rtept lat="26.228540000000002" lon="-80.28179">
+      <name>Straight</name>
+      <cmt>Continue onto NW 100th Ave/N Nob Hill Rd</cmt>
+    </rtept>
+    <rtept lat="26.223010000000002" lon="-80.28545000000003">
+      <name>Right</name>
+      <cmt>Turn right onto NW 80 St/SW 80th St</cmt>
+    </rtept>
+    <rtept lat="26.22331" lon="-80.29516999999998">
+      <name>Straight</name>
+      <cmt>Continue onto NW 108th Terrace</cmt>
+    </rtept>
+    <rtept lat="26.20831" lon="-80.29384">
+      <name>Left</name>
+      <cmt>Turn left onto W McNab Rd</cmt>
+    </rtept>
+    <rtept lat="26.208250000000003" lon="-80.29114000000001">
+      <name>Right</name>
+      <cmt>Turn right onto Hiatus Rd</cmt>
+    </rtept>
+    <rtept lat="26.179170000000003" lon="-80.29089">
+      <name>Right</name>
+      <cmt>Turn right onto NW 44th St</cmt>
+    </rtept>
+    <rtept lat="26.1790286448067" lon="-80.2980709430559">
+      <name>Left</name>
+      <cmt>UTURN After the flat bridge and then Right onto trail</cmt>
+    </rtept>
+    <rtept lat="26.168280000000003" lon="-80.29762">
+      <name>Right</name>
+      <cmt>Turn right onto W Oakland Park Blvd</cmt>
+    </rtept>
+    <rtept lat="26.168244870142644" lon="-80.29820234353673">
+      <name>Left</name>
+      <cmt>Cross Oakland Park to other side.. Trail switches to other side of canal.</cmt>
+    </rtept>
+    <rtept lat="26.16813" lon="-80.29843">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="26.145940000000003" lon="-80.29791">
+      <name>Straight</name>
+      <cmt>Make a U-turn at W Sunrise Blvd</cmt>
+    </rtept>
+    <rtept lat="26.145822236732652" lon="-80.29814314286318">
+      <name>Left</name>
+      <cmt>Cross over Sunrise Blvd to stay on Trail.</cmt>
+    </rtept>
+    <rtept lat="26.145770000000002" lon="-80.29804999999999">
+      <name>Right</name>
+      <cmt>Turn right onto NW 112th Ave/Old Hiatus Rd</cmt>
+    </rtept>
+    <rtept lat="26.120780000000003" lon="-80.29806000000002">
+      <name>Right</name>
+      <cmt>Turn right onto W Broward Blvd</cmt>
+    </rtept>
+    <rtept lat="26.12065" lon="-80.29809">
+      <name>Right</name>
+      <cmt>Turn right onto SW 112th Ave/Old Hiatus Rd</cmt>
+    </rtept>
+    <rtept lat="26.111842363294034" lon="-80.2981542621053">
+      <name>Left</name>
+      <cmt>At T in the Trail turn RIGHT onto the New River Trail</cmt>
+    </rtept>
+    <rtept lat="26.11549" lon="-80.31349">
+      <name>Left</name>
+      <cmt>Turn left onto S Flamingo Rd/New River Greenway</cmt>
+    </rtept>
+    <rtept lat="26.114970000000003" lon="-80.31348000000001">
+      <name>Right</name>
+      <cmt>Turn right onto New River Greenway</cmt>
+    </rtept>
+    <rtept lat="26.11503" lon="-80.31381">
+      <name>Right</name>
+      <cmt>Turn right onto S Flamingo Rd/New River Greenway</cmt>
+    </rtept>
+    <rtept lat="26.1156" lon="-80.31381">
+      <name>Left</name>
+      <cmt>Turn left onto New River Greenway</cmt>
+    </rtept>
+    <rtept lat="26.11945" lon="-80.33006">
+      <name>Left</name>
+      <cmt>Turn left onto NW 136th Ave/N Harrison Pkwy</cmt>
+    </rtept>
+    <rtept lat="26.11888" lon="-80.33006">
+      <name>Right</name>
+      <cmt>Turn right onto FL-84 W</cmt>
+    </rtept>
+    <rtept lat="26.118930000000002" lon="-80.33023">
+      <name>Right</name>
+      <cmt>Turn right onto NW 136th Ave/N Harrison Pkwy</cmt>
+    </rtept>
+    <rtept lat="26.119490000000003" lon="-80.33023">
+      <name>Left</name>
+      <cmt>Turn left onto New River Greenway</cmt>
+    </rtept>
+    <rtept lat="26.125660000000003" lon="-80.35475000000001">
+      <name>Left</name>
+      <cmt>Turn left toward New River Greenway</cmt>
+    </rtept>
+    <rtept lat="26.126630000000002" lon="-80.35997">
+      <name>Left</name>
+      <cmt>Turn left onto Markham Park Rd</cmt>
+    </rtept>
+    <rtept lat="26.12611" lon="-80.36018">
+      <name>Right</name>
+      <cmt>Turn right onto FL-84 W</cmt>
+    </rtept>
+    <rtept lat="26.128110000000003" lon="-80.36848">
+      <name>Left</name>
+      <cmt>Turn left onto Bonaventure Blvd</cmt>
+    </rtept>
+    <rtept lat="26.12131" lon="-80.37084">
+      <name>Straight</name>
+      <cmt>At the traffic circle, continue straight to stay on Bonaventure Blvd</cmt>
+    </rtept>
+    <rtept lat="26.11532" lon="-80.37473">
+      <name>Straight</name>
+      <cmt>At the traffic circle, continue straight to stay on Bonaventure Blvd</cmt>
+    </rtept>
+    <rtept lat="26.07431" lon="-80.39333">
+      <name>Right</name>
+      <cmt>Turn right onto S Post Rd</cmt>
+    </rtept>
+    <rtept lat="26.07794" lon="-80.39919">
+      <name>Left</name>
+      <cmt>Turn left onto SW 36th St/Manatee Isles Dr</cmt>
+    </rtept>
+    <rtept lat="26.073200000000003" lon="-80.43379">
+      <name>Left</name>
+      <cmt>Turn left onto US-27 S</cmt>
+    </rtept>
+    <rtept lat="26.063280000000002" lon="-80.43447">
+      <name>Left</name>
+      <cmt>Turn left toward SW 45th St</cmt>
+    </rtept>
+    <rtept lat="26.063269999999985" lon="-80.43334923584791">
+      <name>Left</name>
+      <cmt>CONTROL MARATHON Closes at 1AM</cmt>
+    </rtept>
+    <rtept lat="26.063270000000003" lon="-80.43313">
+      <name>Right</name>
+      <cmt>Turn right onto SW 45th St</cmt>
+    </rtept>
+    <rtept lat="25.952080000000002" lon="-80.43115">
+      <name>Right</name>
+      <cmt>Turn right onto FL-997 S</cmt>
+    </rtept>
+    <rtept lat="25.76040980067631" lon="-80.4809816535253">
+      <name>Left</name>
+      <cmt>CONTROL PILOT TRAVEL CENTER 24 hours</cmt>
+    </rtept>
+    <rtept lat="25.637800000000002" lon="-80.47982">
+      <name>Right</name>
+      <cmt>Turn right onto SW 136th St</cmt>
+    </rtept>
+    <rtept lat="25.63772" lon="-80.51206">
+      <name>Left</name>
+      <cmt>Turn left onto SW 197th Ave</cmt>
+    </rtept>
+    <rtept lat="25.608700000000002" lon="-80.5126">
+      <name>Left</name>
+      <cmt>Turn left onto SW 168th St/Richmond Dr</cmt>
+    </rtept>
+    <rtept lat="25.60872" lon="-80.51109000000001">
+      <name>Right</name>
+      <cmt>Turn right onto SW 197th Ave/Grossman Dr</cmt>
+    </rtept>
+    <rtept lat="25.586900000000004" lon="-80.51087000000001">
+      <name>Left</name>
+      <cmt>Turn left onto SW 192nd St/Grossman Dr/Grossman Farm Rd</cmt>
+    </rtept>
+    <rtept lat="25.586850000000002" lon="-80.50682">
+      <name>Right</name>
+      <cmt>Turn right onto SW 194th Ave</cmt>
+    </rtept>
+    <rtept lat="25.55027" lon="-80.5066">
+      <name>Left</name>
+      <cmt>Turn left onto SW 232nd St/Silver Palm Dr</cmt>
+    </rtept>
+    <rtept lat="25.550310000000003" lon="-80.49432">
+      <name>Right</name>
+      <cmt>Turn right onto SW 187th Ave/Redland Rd</cmt>
+    </rtept>
+    <rtept lat="25.44779" lon="-80.49339">
+      <name>Left</name>
+      <cmt>Turn left onto W Palm Dr</cmt>
+    </rtept>
+    <rtept lat="25.447770000000002" lon="-80.47522000000001">
+      <name>Right</name>
+      <cmt>Turn right onto US-1 S</cmt>
+    </rtept>
+    <rtept lat="25.446140000000003" lon="-80.47519000000001">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="25.44612" lon="-80.47653000000001">
+      <name>Left</name>
+      <cmt>Turn left toward US-1 S</cmt>
+    </rtept>
+    <rtept lat="25.446753908160243" lon="-80.47678550490366">
+      <name>Left</name>
+      <cmt>OVERNIGHT FAIRWAY INN</cmt>
+    </rtept>
+    <rtept lat="25.446140000000003" lon="-80.47519000000001">
+      <name>Right</name>
+      <cmt>Turn right onto US-1 S</cmt>
+    </rtept>
+    <rtept lat="24.72940557987176" lon="-81.03553527635398">
+      <name>Left</name>
+      <cmt>STORE Circle K 24 hours</cmt>
+    </rtept>
+    <rtept lat="24.57008" lon="-81.75220999999999">
+      <name>Left</name>
+      <cmt>Turn left onto S Roosevelt Blvd</cmt>
+    </rtept>
+    <rtept lat="24.550430000000002" lon="-81.77627000000001">
+      <name>Right</name>
+      <cmt>S Roosevelt Blvd turns slightly right and becomes Bertha St</cmt>
+    </rtept>
+    <rtept lat="24.55234" lon="-81.77782000000002">
+      <name>Left</name>
+      <cmt>Turn left onto Atlantic Blvd</cmt>
+    </rtept>
+    <rtept lat="24.54782" lon="-81.78496999999999">
+      <name>Right</name>
+      <cmt>Turn right onto White St</cmt>
+    </rtept>
+    <rtept lat="24.55226" lon="-81.78827999999999">
+      <name>Left</name>
+      <cmt>Turn left onto South St</cmt>
+    </rtept>
+    <rtept lat="24.546543815709867" lon="-81.79746863497542">
+      <name>Left</name>
+      <cmt>INFO CONTROL</cmt>
+    </rtept>
+    <rtept lat="24.546539643797068" lon="-81.79748334513539">
+      <name>Left</name>
+      <cmt>SOUTHERN MOST POINT FINISH!!</cmt>
+    </rtept>
+    <rtept lat="24.548090000000002" lon="-81.79507000000001">
+      <name>Left</name>
+      <cmt>Turn left at the 2nd cross street onto Simonton St</cmt>
+    </rtept>
+    <rtept lat="24.548299" lon="-81.795085">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>
