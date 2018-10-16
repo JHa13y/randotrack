@@ -105,8 +105,8 @@
               dataType: "xml",
               success: function (xml) {
                   var controls = [];
-                  var bed = '/static/bed.png';
-                  var control = '/static/reciept.png';
+                  var bed = '/static/redcircle.png';
+                  var control = '/static/greencircle.png';
 
                   $(xml).find("rtept").each(function () {
                       var lat = $(this).attr("lat");
