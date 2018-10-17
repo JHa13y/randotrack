@@ -33,7 +33,10 @@
       // failed.", it means you probably did not give permission for the browser to
       // locate you.
       var map, infoWindow;
+      var loading = true;
       var blue = '/static/bluecircle.png';
+      var rusa = '/static/rusa_30x30.png';
+
            function handleLocationError(browserHasGeolocation, infoWindow, pos) {
         infoWindow.setPosition(pos);
         infoWindow.setContent(browserHasGeolocation ?
@@ -80,34 +83,66 @@
 
           $.ajax({
               type: "GET",
-              url: "https://api.findmespot.com/spot-main-web/consumer/rest-api/2.0/public/feed/1Q0vqIEP7qR3r97LdmM27vLIi33Gz2UuA/message.xml?startDate=2018-10-13T00:00:00-0000&endDate=2018-10-14T00:00:00-0000&feedPassword=randonneuring",
+              url: "https://api.findmespot.com/spot-main-web/consumer/rest-api/2.0/public/feed/1Q0vqIEP7qR3r97LdmM27vLIi33Gz2UuA/message.xml?startDate=2018-10-13T00:00:00-0000&endDate=2018-12-14T00:00:00-0000&feedPassword=randonneuring",
               dataType: "xml",
               success: function (xml) {
                   var points = [];
                   var bounds = new google.maps.LatLngBounds();
+                  first = null
+                  first_message = null
+
                   $(xml).find("message").each(function () {
                       var lat = $(this).find("latitude").text()
                       var lon = $(this).find("longitude").text()
                       now = moment(new Date())
                       spot = moment(new Date($(this).find("dateTime").text()))
                       diff = new Date(now.diff(spot))
-                      var datetime = diff.getDate() +"Ds " + diff.getHours() + "Hs:" + diff.getMinutes() + "Ms ago"
+                      var datetime = diff.getDate() + "Days " + diff.getHours() + "Hours:" + diff.getMinutes() + "Ms ago"
 
                       var p = new google.maps.LatLng(lat, lon);
                       points.push(p);
-                      var marker = new google.maps.Marker({
+                      if (first == null) {
+                          first_message= datetime;
+                          first = p;
+                      }
+                      else{
+                          var marker = new google.maps.Marker({
                               position: p,
                               map: map,
                               icon: blue
-                      })
-                       var infowindow = new google.maps.InfoWindow({
-                          content: datetime
-                       });
-                      google.maps.event.addListener(marker, 'click', function() {
-                        infowindow.open(map,marker);
-                      });
+                          });
+                          var infowindow = new google.maps.InfoWindow({
+                            content: datetime
+                           });
+                          google.maps.event.addListener(marker, 'click', function() {
+                            infowindow.open(map,marker);
+                          });
+                      }
+
+
+
 
                   });
+
+
+                  var infowindow = new google.maps.InfoWindow({
+                          content: "Latest Update! " + first_message
+                       });
+                  first_marker = new google.maps.Marker({
+                              position: first,
+                              map: map,
+                              icon: rusa
+                  });
+                  google.maps.event.addListener(first_marker, 'click', function() {
+                            infowindow.open(map,first_marker);
+                  });
+                  if(loading)
+                  {
+                      map.setCenter(first)
+                      laoding = false
+                  }
+
+
 
                   var poly = new google.maps.Polyline({
                       // use your own style here
@@ -174,7 +209,6 @@
                       position: pos,
                       map: map
                   })
-                  map.setCenter(pos);
               }, function () {
                   handleLocationError(true, infoWindow, map.getCenter());
               });
