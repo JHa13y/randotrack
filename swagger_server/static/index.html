@@ -20,6 +20,8 @@
   </head>
   <body>
     <div id="map"></div>
+    <script src="static/js/moment.min.js">
+    </script>
     <script src="static/js/jquery.min.js">
     </script>
     <script async defer
@@ -46,29 +48,6 @@
               zoom: 6
           });
           infoWindow = new google.maps.InfoWindow;
-
-          // Try HTML5 geolocation.
-          if (navigator.geolocation) {
-              navigator.geolocation.getCurrentPosition(function (position) {
-                  var pos = {
-                      lat: position.coords.latitude,
-                      lng: position.coords.longitude
-                  };
-                  var userMarker = new google.maps.Marker({
-                      position: pos,
-                      map: map,
-                      icon: blue
-                  })
-                  map.setCenter(pos);
-              }, function () {
-                  handleLocationError(true, infoWindow, map.getCenter());
-              });
-          } else {
-              // Browser doesn't support Geolocation
-              handleLocationError(false, infoWindow, map.getCenter());
-          }
-
-
           $.ajax({
               type: "GET",
               url: "static/Florida-Tip-to-Tail-1600k-v11-storm-Take-US-90-FL20.gpx",
@@ -101,6 +80,49 @@
 
           $.ajax({
               type: "GET",
+              url: "https://api.findmespot.com/spot-main-web/consumer/rest-api/2.0/public/feed/1Q0vqIEP7qR3r97LdmM27vLIi33Gz2UuA/message.xml?startDate=2018-10-13T00:00:00-0000&endDate=2018-10-14T00:00:00-0000&feedPassword=randonneuring",
+              dataType: "xml",
+              success: function (xml) {
+                  var points = [];
+                  var bounds = new google.maps.LatLngBounds();
+                  $(xml).find("message").each(function () {
+                      var lat = $(this).find("latitude").text()
+                      var lon = $(this).find("longitude").text()
+                      now = moment(new Date())
+                      spot = moment(new Date($(this).find("dateTime").text()))
+                      diff = new Date(now.diff(spot))
+                      var datetime = diff.getDate() +"Ds " + diff.getHours() + "Hs:" + diff.getMinutes() + "Ms ago"
+
+                      var p = new google.maps.LatLng(lat, lon);
+                      points.push(p);
+                      var marker = new google.maps.Marker({
+                              position: p,
+                              map: map,
+                              icon: blue
+                      })
+                       var infowindow = new google.maps.InfoWindow({
+                          content: datetime
+                       });
+                      google.maps.event.addListener(marker, 'click', function() {
+                        infowindow.open(map,marker);
+                      });
+
+                  });
+
+                  var poly = new google.maps.Polyline({
+                      // use your own style here
+                      path: points,
+                      strokeColor: "#4b54ff",
+                      strokeOpacity: .7,
+                      strokeWeight: 3
+                  });
+
+                  poly.setMap(map);
+              }
+          });
+
+          $.ajax({
+              type: "GET",
               url: "static/Florida-Tip-to-Tail-1600k_cue.gpx",
               dataType: "xml",
               success: function (xml) {
@@ -113,24 +135,56 @@
                       var lon = $(this).attr("lon");
                       var cmt = $(this).find("cmt").text()
                       var p = new google.maps.LatLng(lat, lon);
+                      var marker = null;
                       if (cmt.includes("OVERNIGHT")) {
-                          var masrker = new google.maps.Marker({
+                          var marker = new google.maps.Marker({
                               position: p,
                               map: map,
                               icon: bed
                           })
                       }
                       if (cmt.includes("CONTROL")) {
-                          var masrker = new google.maps.Marker({
+                          var marker = new google.maps.Marker({
                               position: p,
                               map: map,
                               icon: control
                           })
                       }
+                      if(marker != null)
+                      {
+                          var infowindow = new google.maps.InfoWindow({
+                            content: cmt
+                           });
+                          google.maps.event.addListener(marker, 'click', function() {
+                            infowindow.open(map,marker);
+                          });
+                      }
 
                   });
               }
           });
+          // Try HTML5 geolocation.
+          if (navigator.geolocation) {
+              navigator.geolocation.getCurrentPosition(function (position) {
+                  var pos = {
+                      lat: position.coords.latitude,
+                      lng: position.coords.longitude
+                  };
+                  var userMarker = new google.maps.Marker({
+                      position: pos,
+                      map: map
+                  })
+                  map.setCenter(pos);
+              }, function () {
+                  handleLocationError(true, infoWindow, map.getCenter());
+              });
+          } else {
+              // Browser doesn't support Geolocation
+              handleLocationError(false, infoWindow, map.getCenter());
+          }
+
+
+
       }
     </script>
   </body>
